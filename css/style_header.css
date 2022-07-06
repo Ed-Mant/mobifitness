@@ -1,0 +1,27 @@
+#circle {
+    position: absolute;
+    width: 394.12px;
+    height: 394.12px;
+    left: -228px;
+    top: -203px;
+    border-radius: 200px;
+    background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+    transform: rotate(37.41deg);
+}
+
+#logo {
+    position: absolute;
+    top: 36px;
+    margin: 0px 0px 0px 7px;
+}
+
+#green_button {
+    position: absolute;
+    width: 167px;
+    height: 34px;
+    left: 178px;
+    top: 40px;
+
+    background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
+    border-radius: 50px;
+}
