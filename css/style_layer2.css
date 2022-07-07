@@ -1,0 +1,27 @@
+h2 {
+    position: absolute;
+    width: 275px;
+    height: 72px;
+    left: 15px;
+    top: 670px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.text1 {
+    position: absolute;
+    width: 330px;
+    height: 108px;
+    left: 15px;
+    top: 770px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+}

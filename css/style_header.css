@@ -19,9 +19,27 @@
     position: absolute;
     width: 167px;
     height: 34px;
-    left: 163px;
-    top: 4px;
-
+    left: 178px;
+    top: 40px;
+    border: 0;
     background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
     border-radius: 50px;
+}
+
+.button_text {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 18px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.letter {
+    position: absolute;
+    left: 74px;
+    top: 104px;
 }
