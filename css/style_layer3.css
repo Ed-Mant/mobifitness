@@ -1,0 +1,99 @@
+.planet {
+    position: absolute;
+    width: 256px;
+    height: 206px;
+    left: 65px;
+    top: 1263px;
+}
+
+.satellite1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 111px;
+    height: 48px;
+    left: 211px;
+    top: 1251px;
+    background: radial-gradient(110.31% 293.45% at 86.91% 13.4%, #FBD748 0%, rgba(251, 215, 72, 0) 100%), rgba(251, 215, 72, 0.3);
+    opacity: 0.8;
+    backdrop-filter: blur(19px);
+    border-radius: 10px;
+}
+
+.satel_text1 {
+    position: absolute;
+    width: 79px;
+    height: 24px;
+    left: 227px;
+    top: 1240px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.satellite2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 76px;
+    height: 48px;
+    left: 38px;
+    top: 1391px;
+    background: radial-gradient(121.65% 316.97% at 10.52% 84.54%, #15B68E 0%, rgba(147, 231, 54, 0) 100%), linear-gradient(78.55deg, rgba(147, 231, 54, 0.3) -2.26%, rgba(147, 231, 54, 0) 105.67%);
+    opacity: 0.8;
+    backdrop-filter: blur(19px);
+    border-radius: 10px;
+}
+
+.satel_text2 {
+    position: absolute;
+    width: 44px;
+    height: 24px;
+    left: 54px;
+    top: 1380px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.sng1 {
+    position: absolute;
+    width: 330px;
+    height: 66px;
+    top: 1500px;
+    left: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.pillar {
+    position: absolute;
+    width: 6px;
+    height: 90px;
+    top: 1600px;
+    left: 15px;
+    border-radius: 50px;
+    background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+}
+
+.sng2 {
+    position: absolute;
+    width: 305px;
+    height: 90px;
+    top: 1585px;
+    left: 35px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #000000;
+}

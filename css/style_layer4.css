@@ -1,0 +1,100 @@
+.what {
+    position: absolute;
+    width: 275px;
+    height: 36px;
+    top: 1737px;
+    left: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.answer {
+    position: absolute;
+    width: 330px;
+    height: 324px;
+    top: 1805px;
+    left: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.circle3 {
+    position: absolute;
+    width: 248px;
+    height: 248px;
+    left: 55px;
+    top: 2250px;
+    border-radius: 200%;
+    background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+    box-shadow: -2px 2px 60px #1DC299;
+}
+
+.border_circle1 {
+    outline: 2px;
+    outline-style: dashed;
+    outline-color: #15B68E;
+    outline-offset: -2px;
+
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 27px;
+    top: 2221px;
+    border-radius: 200%;
+    opacity: 0.5;
+}
+
+.border_circle2 {
+    outline: 2px;
+    outline-style: dashed;
+    outline-color: #15B68E;
+    outline-offset: 57px;
+
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 27px;
+    top: 2221px;
+    border-radius: 200%;
+    opacity: 0.2;
+}
+
+.border_circle3 {
+    outline: 2px;
+    outline-style: dashed;
+    outline-color: #15B68E;
+    outline-offset: 123px;
+
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 27px;
+    top: 2221px;
+    border-radius: 200%;
+    opacity: 0.1;
+}
+
+.white_box {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    position: absolute;
+    width: 115px;
+    height: 52px;
+    left: 56px;
+    top: 2285px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
+    border-radius: 10px;
+}
