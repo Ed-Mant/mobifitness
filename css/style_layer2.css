@@ -25,3 +25,147 @@ h2 {
     line-height: 18px;
     color: #000000;
 }
+
+.photo1 {
+    position: absolute;
+    left: 0px;
+    top: 955px;
+}
+
+.aida {
+    position: absolute;
+    width: 100px;
+    height: 36px;
+    left: -48px;
+    top: 1081px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.cant_aida {
+    box-sizing: border-box;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: -59px;
+    top: 959px;
+    border: 1px solid #15B68E;
+    border-radius: 10px;
+    transform: rotate(-2deg);
+}
+
+.aida_text {
+    position: absolute;
+    width: 107px;
+    height: 42px;
+    left: -47px;
+    top: 1128px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #000000;
+}
+
+.photo2 {
+    position: absolute;
+    left: 90px;
+    top: 958px;
+}
+
+.cant_kirill {
+    box-sizing: border-box;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 90px;
+    top: 956px;
+    border: 1px solid #15B68E;
+    border-radius: 10px;
+    transform: rotate(5deg);
+}
+
+.kirill {
+    position: absolute;
+    width: 107px;
+    height: 36px;
+    left: 98px;
+    top: 1081px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.kirill_text {
+    position: absolute;
+    width: 107px;
+    height: 28px;
+    left: 98px;
+    top: 1128px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #000000;
+}
+
+.photo3 {
+    position: absolute;
+    left: 241px;
+    top: 954px;
+}
+
+.cant_sofia {
+    box-sizing: border-box;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 244px;
+    top: 955px;
+    border: 1px solid #FBD748;
+    border-radius: 10px;
+    transform: rotate(1deg);
+}
+
+.sofia {
+    position: absolute;
+    width: 120px;
+    height: 36px;
+    left: 246px;
+    top: 1081px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.sofia_text {
+    position: absolute;
+    width: 107px;
+    height: 28px;
+    left: 253px;
+    top: 1128px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #000000;
+}
