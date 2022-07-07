@@ -1,4 +1,4 @@
-#circle {
+.circle {
     position: absolute;
     width: 394.12px;
     height: 394.12px;
@@ -9,13 +9,13 @@
     transform: rotate(37.41deg);
 }
 
-#logo {
+.logo {
     position: absolute;
     top: 36px;
     margin: 0px 0px 0px 7px;
 }
 
-#green_button {
+.green_button {
     position: absolute;
     width: 167px;
     height: 34px;
