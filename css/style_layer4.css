@@ -82,8 +82,7 @@
     opacity: 0.1;
 }
 
-.white_box {
-    position: absolute;
+.white_box1 {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -97,4 +96,19 @@
     background: #FFFFFF;
     box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
     border-radius: 10px;
+}
+
+.text_white_box1 {
+    position: absolute;
+    width: 91px;
+    height: 36px;
+    left: 56px;
+    top: 2285px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
 }
