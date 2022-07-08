@@ -1,0 +1,130 @@
+.what_mobi {
+    position: absolute;
+    top: 3408px;
+    left: 15px;
+    width: 330px;
+    height: 76px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #15B68E;
+}
+
+.answer_mobi {
+    position: absolute;
+    top: 3520px;
+    width: 330px;
+    height: 54px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.green_tri_box {
+    position: absolute;
+    width: 335px;
+    height: 154px;
+    left: 9px;
+    top: 3640px;
+    background: #15B68E;
+    border-radius: 10px;
+}
+
+.cant_grin_box {
+    position: absolute;
+    width: 350px;
+    height: 142px;
+    left: 0px;
+    top: 3644px;
+    border: 2px solid #FBD748;
+    border-radius: 10px;
+    transform: matrix(-1, -0.04, -0.04, 1, 0, 0);
+}
+
+.avto {
+    position: absolute;
+    width: 280px;
+    height: 20px;
+    left: 30px;
+    top: 3644px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.n_2000 {
+    position: absolute;
+    top: 3664px;
+    left: 30px;
+    width: 127px;
+    height: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.n_2000_text {
+    position: absolute;
+    top: 3732px;
+    left: 40px;
+    width: 120px;
+    height: 18px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.n_200 {
+    position: absolute;
+    top: 3664px;
+    left: 225px;
+    width: 85px;
+    height: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.n_200_text {
+    position: absolute;
+    top: 3732px;
+    left: 225px;
+    width: 120px;
+    height: 18px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.blue_low_low {
+    position: absolute;
+    width: 103px;
+    height: 87px;
+    left: -18px;
+    top: 3586px;
+}

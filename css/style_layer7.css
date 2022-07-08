@@ -1,0 +1,152 @@
+.big_circle {
+    outline: 2px;
+    outline-style: dashed;
+    outline-color: #FFFFFF;
+    outline-offset: -40px;
+
+    position: absolute;
+    width: 804px;
+    height: 804px;
+    left: -225px;
+    top: 3864px;
+    border-radius: 500px;
+    background: linear-gradient(104.37deg, #15B68E 15.52%, #93E736 49.72%, rgba(147, 231, 54, 0) 86.17%);
+    transform: rotate(90deg);
+}
+
+.red_low {
+    position: absolute;
+    width: 114px;
+    height: 96px;
+    left: 190px;
+    top: 3845px;
+    transform: rotate(-36deg);
+}
+
+.last_text1 {
+    position: absolute;
+    width: 332px;
+    height: 66px;
+    left: 15px;
+    top: 3956px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.last_text2 {
+    position: absolute;
+    width: 313px;
+    height: 54px;
+    left: 15px;
+    top: 4038px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.phone {
+    position: absolute;
+    width: 209px;
+    height: 253px;
+    left: 73px;
+    top: 4182px;
+}
+
+.text_phone {
+    position: absolute;
+    width: 239px;
+    height: 24px;
+    left: 61px;
+    top: 4440px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.laptop1 {
+    position: absolute;
+    width: 330px;
+    height: 229px;
+    left: 20px;
+    top: 4555px;
+}
+
+.text_laptop1 {
+    position: absolute;
+    width: 163px;
+    height: 24px;
+    left: 99px;
+    top: 4788px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.laptop2 {
+    position: absolute;
+    width: 329px;
+    height: 226px;
+    left: 15px;
+    top: 4900px;
+}
+
+.laptop3 {
+    position: absolute;
+    width: 84px;
+    height: 168px;
+    left: 18px;
+    top: 4958px;
+}
+
+.text_online {
+    position: absolute;
+    width: 267px;
+    height: 48px;
+    left: 44px;
+    top: 5130px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.laptop4 {
+    position: absolute;
+    width: 330px;
+    height: 232px;
+    left: 15px;
+    top: 5268px;
+}
+
+.text_laptop4 {
+    position: absolute;
+    width: 150px;
+    height: 24px;
+    left: 111px;
+    top: 5504px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
