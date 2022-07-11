@@ -128,3 +128,139 @@
     left: -18px;
     top: 3586px;
 }
+
+@media only screen and (min-width: 480px){
+
+    .what_mobi {
+        position: absolute;
+        top: 4834px;
+        left: 650px;
+        width: 800px;
+        height: 86px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 86px;
+        text-align: center;
+        color: #15B68E;
+    }
+    
+    .answer_mobi {
+        position: absolute;
+        top: 4995px;
+        left: 650px;
+        width: 800px;
+        height: 60px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .green_tri_box {
+        position: absolute;
+        width: 1430px;
+        height: 345px;
+        left: 332px;
+        top: 5140px;
+        background: #15B68E;
+        border-radius: 45px;
+    }
+    
+    .cant_grin_box {
+        position: absolute;
+        width: 1445px;
+        height: 345px;
+        left: 320px;
+        top: 5140px;
+        border: 3px solid #FBD748;
+        border-radius: 45px;
+        transform: matrix(-1, -0.04, -0.04, 1, 0, 0);
+    }
+    
+    .avto {
+        position: absolute;
+        width: 555px;
+        height: 40px;
+        left: 780px;
+        top: 5160px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 34px;
+        line-height: 40px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .n_2000 {
+        position: absolute;
+        top: 5172px;
+        left: 666px;
+        width: 316px;
+        height: 100px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 100px;
+        line-height: 100px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .n_2000_text {
+        position: absolute;
+        top: 5350px;
+        left: 696px;
+        width: 256px;
+        height: 36px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        color: #000000;
+    }
+    
+    .n_200 {
+        position: absolute;
+        top: 5172px;
+        left: 1192px;
+        width: 212px;
+        height: 100px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 100px;
+        line-height: 100px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .n_200_text {
+        position: absolute;
+        top: 5350px;
+        left: 1210px;
+        width: 131px;
+        height: 30px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 30px;
+        color: #000000;
+    }
+    
+    .blue_low_low {
+        position: absolute;
+        width: 229px;
+        height: 190px;
+        left: 300px;
+        top: 5120px;
+    }
+
+}

@@ -1,7 +1,7 @@
 .circle {
     position: absolute;
-    width: 394.12px;
-    height: 394.12px;
+    width: 394px;
+    height: 394px;
     left: -228px;
     top: -203px;
     border-radius: 200px;
@@ -42,4 +42,58 @@
     position: absolute;
     left: 74px;
     top: 104px;
+}
+
+@media only screen and (min-width: 480px){
+    
+    .circle {
+        position: absolute;
+        width: 362px;
+        height: 362px;
+        left: -60px;
+        top: 160px;
+        border-radius: 200px;
+        background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+        transform: rotate(37.41deg);
+    }
+
+    .logo {
+        position: absolute;
+        width: 179px;
+        height: 60px;
+        left: 310px;
+        top: 60px;
+    }
+
+    .green_button {
+        position: absolute;
+        width: 305px;
+        height: 52px;
+        left: 1512px;
+        top: 52px;
+        border: 0;
+        background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
+        border-radius: 50px;
+    }
+
+    .button_text {
+        font-family: 'Open Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .letter {
+        position: absolute;
+        width: 209px;
+        height: 168px;
+        left: 200px;
+        top: 253px;
+
+        transform: rotate(20deg);
+    }
+
 }

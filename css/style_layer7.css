@@ -150,3 +150,160 @@
     line-height: 24px;
     color: #000000;
 }
+
+@media only screen and (min-width: 480px){
+
+    .big_circle {
+        outline: 3px;
+        outline-style: dashed;
+        outline-color: #FFFFFF;
+        outline-offset: -35px;
+    
+        position: absolute;
+        width: 804px;
+        height: 804px;
+        left: 68px;
+        top: 5625px;
+        border-radius: 500px;
+        background: linear-gradient(104.37deg, #15B68E 15.52%, #93E736 49.72%, rgba(147, 231, 54, 0) 86.17%);
+        transform: rotate(90deg);
+    }
+
+    .red_low {
+        position: absolute;
+        width: 171px;
+        height: 137px;
+        left: 760px;
+        top: 6091px;
+        transform: rotate(-36deg);
+    }
+    
+    .last_text1 {
+        position: absolute;
+        width: 430px;
+        height: 132px;
+        left: 298px;
+        top: 5720px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 34px;
+        line-height: 44px;
+        color: #FFFFFF;
+    }
+    
+    .last_text2 {
+        position: absolute;
+        width: 460px;
+        height: 120px;
+        left: 298px;
+        top: 5890px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    
+    .phone {
+        position: absolute;
+        width: 209px;
+        height: 253px;
+        left: 978px;
+        top: 5755px;
+    }
+    
+    .text_phone {
+        position: absolute;
+        width: 318px;
+        height: 30px;
+        left: 975px;
+        top: 6007px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    
+    .laptop1 {
+        position: absolute;
+        width: 356px;
+        height: 247px;
+        left: 1475px;
+        top: 5776px;
+    }
+    
+    .text_laptop1 {
+        position: absolute;
+        width: 217px;
+        height: 30px;
+        left: 1545px;
+        top: 6008px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    
+    .laptop2 {
+        position: absolute;
+        width: 356px;
+        height: 247px;
+        left: 955px;
+        top: 6158px;
+    }
+    
+    .laptop3 {
+        position: absolute;
+        width: 91px;
+        height: 181px;
+        left: 960px;
+        top: 6216px;
+    }
+    
+    .text_online {
+        position: absolute;
+        width: 300px;
+        height: 60px;
+        left: 960px;
+        top: 6388px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .laptop4 {
+        position: absolute;
+        width: 349px;
+        height: 245px;
+        left: 1470px;
+        top: 6150px;
+    }
+    
+    .text_laptop4 {
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 1550px;
+        top: 6388px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+}

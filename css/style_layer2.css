@@ -1,3 +1,5 @@
+@media only screen and (max-width: 480px){
+
 h2 {
     position: absolute;
     width: 275px;
@@ -28,8 +30,11 @@ h2 {
 
 .photo1 {
     position: absolute;
-    left: 0px;
+    width: 125px;
+    height: 125px;
+    left: -59px;
     top: 955px;
+    border-radius: 20px;
 }
 
 .aida {
@@ -76,6 +81,8 @@ h2 {
 
 .photo2 {
     position: absolute;
+    width: 125px;
+    height: 125px;
     left: 90px;
     top: 958px;
 }
@@ -124,6 +131,8 @@ h2 {
 
 .photo3 {
     position: absolute;
+    width: 125px;
+    height: 125px;
     left: 241px;
     top: 954px;
 }
@@ -168,4 +177,394 @@ h2 {
     line-height: 14px;
     text-align: center;
     color: #000000;
+}
+
+.photo4 {
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: 1200px;
+    top: 1544px;
+}
+
+.cant_anast {
+    box-sizing: border-box;
+    position: absolute;
+    width: 368px;
+    height: 368px;
+    left: 1198px;
+    top: 1540px;
+    border: 2px solid #15B68E;
+    border-radius: 30px;
+    transform: rotate(-4.42deg);
+}
+
+.anast {
+    position: absolute;
+    width: 314px;
+    height: 24px;
+    left: 1220px;
+    top: 1920px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.anast_text {
+    position: absolute;
+    width: 314px;
+    height: 18px;
+    left: 1221px;
+    top: 1966px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.photo5 {
+    position: absolute;
+    width: 359px;
+    height: 359px;
+    left: 1660px;
+    top: 1544px;
+    border-radius: 30px;
+    transform: rotate(7.06deg);
+}
+
+.cant_andrey {
+    box-sizing: border-box;
+    position: absolute;
+    width: 368px;
+    height: 368px;
+    left: 1658px;
+    top: 1540px;
+    border: 2px solid #FBD748;
+    border-radius: 30px;
+    transform: rotate(3.23deg);
+}
+
+.andrey {
+    position: absolute;
+    width: 314px;
+    height: 24px;
+    left: 1663px;
+    top: 1919px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.text_andrey {
+    position: absolute;
+    width: 314px;
+    height: 18px;
+    left: 1663px;
+    top: 1967px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
+}
+
+@media only screen and (min-width: 480px){
+
+    h2 {
+        position: absolute;
+        width: 1005px;
+        height: 172px;
+        left: 427px;
+        top: 1010px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 96px;
+        color: #000000;
+    }
+
+    .text1 {
+        position: absolute;
+        width: 729px;
+        height: 200px;
+        left: 427px;
+        top: 1256px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    .photo1 {
+        position: absolute;
+        border: 0px;
+        border-radius: 30px;
+        width: 359px;
+        height: 359px;
+        left: -132px;
+        top: 1550px;
+        transform: rotate(3.63deg);
+    }
+
+    .aida {
+        position: absolute;
+        width: 314px;
+        height: 24px;
+        left: -132px;
+        top: 1922px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .aida_text {
+        position: absolute;
+        width: 234px;
+        height: 36px;
+        left: -132px;
+        top: 1972px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .cant_aida {
+        box-sizing: border-box;
+        position: absolute;
+        width: 368px;
+        height: 368px;
+        left: -132px;
+        top: 1550px;
+        border: 2px solid #15B68E;
+        border-radius: 30px;
+        transform: rotate(-2deg);
+    }
+
+    .photo2 {
+        width: 359px;
+        height: 359px;
+        left: 295px;
+        top: 1550px;
+
+    }
+    
+    .cant_kirill {
+        box-sizing: border-box;
+        position: absolute;
+        width: 368px;
+        height: 368px;
+        left: 295px;
+        top: 1550px;
+        border: 2px solid #15B68E;
+        border-radius: 30px;
+        transform: rotate(5deg);
+    }
+
+    .kirill {
+        position: absolute;
+        width: 314px;
+        height: 24px;
+        left: 320px;
+        top: 1922px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .kirill_text {
+        position: absolute;
+        width: 314px;
+        height: 18px;
+        left: 320px;
+        top: 1972px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .photo3 {
+        position: absolute;
+        width: 359px;
+        height: 359px;
+        left: 740px;
+        top: 1538px;
+    }
+
+    .cant_sofia {
+        box-sizing: border-box;
+        position: absolute;
+        width: 368px;
+        height: 368px;
+        left: 742px;
+        top: 1545px;
+        border: 2px solid #FBD748;
+        border-radius: 30px;
+        transform: rotate(1deg);
+    }
+
+    .sofia {
+        position: absolute;
+        width: 314px;
+        height: 24px;
+        left: 760px;
+        top: 1925px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .sofia_text {
+        position: absolute;
+        width: 314px;
+        height: 18px;
+        left: 770px;
+        top: 1973px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .photo4 {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1200px;
+        top: 1544px;
+    }
+
+    .cant_anast {
+        box-sizing: border-box;
+        position: absolute;
+        width: 368px;
+        height: 368px;
+        left: 1198px;
+        top: 1540px;
+        border: 2px solid #15B68E;
+        border-radius: 30px;
+        transform: rotate(-4.42deg);
+    }
+
+    .anast {
+        position: absolute;
+        width: 314px;
+        height: 24px;
+        left: 1220px;
+        top: 1920px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .anast_text {
+        position: absolute;
+        width: 314px;
+        height: 18px;
+        left: 1221px;
+        top: 1966px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .photo5 {
+        position: absolute;
+        width: 359px;
+        height: 359px;
+        left: 1660px;
+        top: 1544px;
+        border-radius: 30px;
+        transform: rotate(7.06deg);
+    }
+
+    .cant_andrey {
+        box-sizing: border-box;
+        position: absolute;
+        width: 368px;
+        height: 368px;
+        left: 1658px;
+        top: 1540px;
+        border: 2px solid #FBD748;
+        border-radius: 30px;
+        transform: rotate(3.23deg);
+    }
+
+    .andrey {
+        position: absolute;
+        width: 314px;
+        height: 24px;
+        left: 1663px;
+        top: 1919px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .text_andrey {
+        position: absolute;
+        width: 314px;
+        height: 18px;
+        left: 1663px;
+        top: 1967px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+    }
+
 }

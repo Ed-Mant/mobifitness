@@ -32,7 +32,7 @@ h1 {
 
 .yellow_box {
     position: absolute;
-    width: 3041px;
+    width: 1920px;
     height: 73px;
     left: -747px;
     top: 473px;
@@ -56,11 +56,88 @@ h1 {
 .blue {
     position: absolute;
     left: 211px;
-    top: 407px;
+    top: 380px;
 }
 
 .red {
     position: absolute;
     left: 28px;
-    top: 450px;
+    top: 410px;
+}
+
+@media only screen and (min-width: 480px){
+
+    h1 {
+        position: absolute;
+        width: 1100px;
+        height: 400px;
+        left: 490px;
+        top: 230px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 84px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .circle2 {
+        outline: 2px;
+        outline-style: dashed;
+        outline-color: #93E736;
+        outline-offset: 44px;
+    
+        position: absolute;
+        box-sizing: border-box;
+        width: 670px;
+        height: 670px;
+        left: 1600px;
+        top: 385px;
+        border-radius: 500px;
+        background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+        transform: rotate(37deg);
+    }
+
+    .yellow_box {
+        position: absolute;
+        width: 2700px;
+        height: 97px;
+        left: -461.05px;
+        top: 723px;
+        background: #FBD748;
+        box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
+        transform: rotate(-5deg);
+    }
+
+    .yellow_text {
+        position: absolute;
+        width: 2970px;
+        height: 40px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 36px;
+        line-height: 16px;
+        font-weight: 900;
+        color: #000000;
+    }
+
+    .blue {
+        position: absolute;
+        width: 205px;
+        height: 152px;
+        left: 1600px;
+        top: 460px;
+        transform: rotate(25deg);
+    }
+
+    .red {
+        position: absolute;
+        width: 87px;
+        height: 70px;
+        left: 1170px;
+        top: 490px;
+        transform: rotate(-35deg);
+    }
+
 }

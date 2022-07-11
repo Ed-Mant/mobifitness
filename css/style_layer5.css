@@ -195,3 +195,205 @@
     line-height: 20px;
     color: #FFFFFF;
 }
+
+@media only screen and (min-width: 480px){
+
+    .dark_box {
+        position: absolute;
+        width: 1463px;
+        height: 900px;
+        left: 325px;
+        top: 3775px;
+        background: #2E353D;
+        border-radius: 45px;
+    }
+    
+    .p_start {
+        position: absolute;
+        width: 1006px;
+        height: 172px;
+        left: 520px;
+        top: 3852px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 86px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .yellow_text1 {
+        position: absolute;
+        left: 565px;
+        top: 4055px;
+        text-align: center;
+        width: 221px;
+        height: 44px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 44px;
+        color: #FBD748;
+    }
+    
+    .dark_text1 {
+        position: absolute;
+        left: 544px;
+        top: 4135px;
+        text-align: center;
+        width: 267px;
+        height: 78px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .yellow_text2 {
+        position: absolute;
+        left: 998px;
+        top: 4055px;
+        text-align: center;
+        width: 131px;
+        height: 44px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 44px;
+        color: #FBD748;
+    }
+    
+    .dark_text2 {
+        position: absolute;
+        left: 935px;
+        top: 4135px;
+        width: 262px;
+        height: 78px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .yellow_text3 {
+        position: absolute;
+        left: 1340px;
+        top: 4055px;
+        text-align: center;
+        width: 215px;
+        height: 44px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 44px;
+        color: #FBD748;
+    }
+    
+    .dark_text3 {
+        position: absolute;
+        left: 1340px;
+        top: 4135px;
+        width: 220px;
+        height: 78px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .yellow_text4 {
+        position: absolute;
+        left: 760px;
+        top: 4252px;
+        width: 91px;
+        height: 44px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 44px;
+        color: #FBD748;
+    }
+    
+    .dark_text4 {
+        position: absolute;
+        left: 675px;
+        top: 4334px;
+        width: 245px;
+        height: 52px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .yellow_text5 {
+        position: absolute;
+        left: 1060px;
+        top: 4252px;
+        text-align: center;
+        width: 386px;
+        height: 44px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 44px;
+        color: #FBD748;
+    }
+    
+    .dark_text5 {
+        position: absolute;
+        left: 1060px;
+        top: 4334px;
+        width: 386px;
+        height: 52px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .dark_green {
+        padding: 24px 48px;
+        border: 0;
+        position: absolute;
+        width: 438px;
+        height: 78px;
+        left: 838px;
+        top: 4488px;
+        background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
+        border-radius: 50px;
+    }
+    
+    .text_dark_green {
+        width: 343px;
+        height: 30px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+}

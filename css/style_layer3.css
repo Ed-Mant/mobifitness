@@ -97,3 +97,107 @@
     line-height: 18px;
     color: #000000;
 }
+
+@media only screen and (min-width: 480px){
+
+    .planet {
+        position: absolute;
+        width: 570px;
+        height: 458px;
+        left: 370px;
+        top: 2280px;
+    }
+    
+    .satellite1 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 233px;
+        height: 97px;
+        left: 748px;
+        top: 2252px;
+        background: radial-gradient(110.31% 293.45% at 86.91% 13.4%, #FBD748 0%, rgba(251, 215, 72, 0) 100%) rgba(251, 215, 72, 0.3);
+        opacity: 0.8;
+        backdrop-filter: blur(19px);
+        border-radius: 20px;
+    }
+    
+    .satel_text1 {
+        position: absolute;
+        width: 145px;
+        height: 44px;
+        left: 810px;
+        top: 2244px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 34px;
+        line-height: 44px;
+        color: #000000;
+    }
+    
+    .satellite2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 157px;
+        height: 97px;
+        left: 300px;
+        top: 2594px;
+        background: radial-gradient(121.65% 316.97% at 10.52% 84.54%, #15B68E 0%, rgba(147, 231, 54, 0) 100%), linear-gradient(78.55deg, rgba(147, 231, 54, 0.3) -2.26%, rgba(147, 231, 54, 0) 105.67%);
+        opacity: 0.8;
+        backdrop-filter: blur(19px);
+        border-radius: 20px;
+    }
+    
+    .satel_text2 {
+        position: absolute;
+        width: 74px;
+        height: 44px;
+        left: 344px;
+        top: 2585px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 34px;
+        line-height: 44px;
+        color: #000000;
+    }
+    
+    .sng1 {
+        position: absolute;
+        width: 673px;
+        height: 132px;
+        top: 2339px;
+        left: 1072px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 36px;
+        line-height: 44px;
+        color: #000000;
+    }
+    
+    .pillar {
+        position: absolute;
+        width: 6px;
+        height: 169px;
+        top: 2537px;
+        left: 1070px;
+        border-radius: 50px;
+        background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+    }
+    
+    .sng2 {
+        position: absolute;
+        width: 467px;
+        height: 150px;
+        top: 2514px;
+        left: 1095px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+}

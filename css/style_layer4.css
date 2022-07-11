@@ -186,3 +186,196 @@
     top: 2538px;
     transform: rotate(-7deg);
 }
+
+@media only screen and (min-width: 480px){
+
+    .what {
+        position: absolute;
+        width: 509px;
+        height: 86px;
+        top: 2951px;
+        left: 432px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 86px;
+        color: #000000;
+    }
+    
+    .answer {
+        position: absolute;
+        width: 729px;
+        height: 450px;
+        top: 3110px;
+        left: 428px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    
+    .circle3 {
+        position: absolute;
+        width: 415px;
+        height: 415px;
+        left: 1355px;
+        top: 3100px;
+        border-radius: 200%;
+        background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
+        box-shadow: -2px 2px 60px #1DC299;
+    }
+    
+    .border_circle1 {
+        outline: 4px;
+        outline-style: dashed;
+        outline-color: #15B68E;
+        outline-offset: -2px;
+    
+        position: absolute;
+        width: 511px;
+        height: 511px;
+        left: 1308px;
+        top: 3050px;
+        border-radius: 200%;
+        opacity: 0.5;
+    }
+    
+    .border_circle2 {
+        outline: 4px;
+        outline-style: dashed;
+        outline-color: #15B68E;
+        outline-offset: -4px;
+    
+        position: absolute;
+        width: 709px;
+        height: 709px;
+        left: 1205px;
+        top: 2950px;
+        border-radius: 200%;
+        opacity: 0.2;
+    }
+    
+    .border_circle3 {
+        outline: 4px;
+        outline-style: dashed;
+        outline-color: #15B68E;
+        outline-offset: -6px;
+    
+        position: absolute;
+        width: 933px;
+        height: 933px;
+        left: 1090px;
+        top: 2840px;
+        border-radius: 200%;
+        opacity: 0.1;
+    }
+    
+    .white_box1 {
+        position: absolute;
+        width: 213px;
+        height: 112px;
+        left: 1326px;
+        top: 3135px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
+        border-radius: 10px;
+    }
+    
+    .text_white_box1 {
+        padding: 30px 34px;
+        width: 149px;
+        height: 48px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .white_box2 {
+        position: absolute;
+        width: 278px;
+        height: 136px;
+        left: 1585px;
+        top: 3172px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
+        border-radius: 10px;
+    }
+    
+    .text_white_box2 {
+        padding: 34px;
+        width: 214px;
+        height: 72px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .white_box3 {
+        position: absolute;
+        width: 418px;
+        height: 112px;
+        left: 1325px;
+        top: 3340px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
+        border-radius: 10px;
+    }
+    
+    .text_white_box3 {
+        padding: 32px;
+        width: 354px;
+        height: 48px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .comment {
+        position: absolute;
+        width: 125px;
+        height: 94px;
+        left: 1640px;
+        top: 3084px;
+    }
+    
+    .bell {
+        position: absolute;
+        width: 109px;
+        height: 114px;
+        left: 1240px;
+        top: 3050px;
+    }
+    
+    .gramophone {
+        position: absolute;
+        width: 172px;
+        height: 164px;
+        left: 1720px;
+        top: 3400px;
+    }
+    
+    .blue_low {
+        position: absolute;
+        width: 103px;
+        height: 87px;
+        left: 1310px;
+        top: 3562px;
+        transform: rotate(-7deg);
+    }
+
+}
