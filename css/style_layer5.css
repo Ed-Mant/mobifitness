@@ -6,6 +6,7 @@
     top: 2677px;
     background: #2E353D;
     border-radius: 35px;
+    transform: rotateX(-12turn), rotateY(24turn), rotateZ(0turn);
 }
 
 .p_start {
@@ -183,6 +184,12 @@
     top: 3259px;
     background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
     border-radius: 50px;
+    transition: all 0.5s ease;
+}
+
+
+.dark_green:hover {
+    background: linear-gradient(91.65deg, #13A16C 105.66%, #93E736 -28.46%);
 }
 
 .text_dark_green {
@@ -206,6 +213,7 @@
         top: 3775px;
         background: #2E353D;
         border-radius: 45px;
+        clip-path: polygon(0 0, 100% 1%, 94% 94%, 4% 100%);
     }
     
     .p_start {
@@ -383,8 +391,14 @@
         top: 4488px;
         background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
         border-radius: 50px;
+        transition: all 0.5s ease;
     }
-    
+
+
+    .dark_green:hover {
+        background: linear-gradient(91.65deg, #13A16C 105.66%, #93E736 -28.46%);
+    }
+
     .text_dark_green {
         width: 343px;
         height: 30px;

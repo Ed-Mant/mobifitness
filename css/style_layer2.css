@@ -181,102 +181,103 @@ h2 {
 
 .photo4 {
     position: absolute;
-    width: 360px;
-    height: 360px;
-    left: 1200px;
-    top: 1544px;
+    width: 125px;
+    height: 125px;
+    left: 395px;
+    top: 954px;
 }
 
 .cant_anast {
     box-sizing: border-box;
     position: absolute;
-    width: 368px;
-    height: 368px;
-    left: 1198px;
-    top: 1540px;
-    border: 2px solid #15B68E;
-    border-radius: 30px;
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 395px;
+    top: 954px;
+    border: 1px solid #15B68E;
+    border-radius: 10px;
     transform: rotate(-4.42deg);
 }
 
 .anast {
     position: absolute;
-    width: 314px;
-    height: 24px;
-    left: 1220px;
-    top: 1920px;
+    width: 120px;
+    height: 36px;
+    left: 400px;
+    top: 1081px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 900;
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     text-align: center;
     color: #000000;
 }
 
 .anast_text {
     position: absolute;
-    width: 314px;
-    height: 18px;
-    left: 1221px;
-    top: 1966px;
+    width: 107px;
+    height: 28px;
+    left: 405px;
+    top: 1128px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 12px;
+    line-height: 14px;
     text-align: center;
     color: #000000;
 }
 
 .photo5 {
     position: absolute;
-    width: 359px;
-    height: 359px;
-    left: 1660px;
-    top: 1544px;
-    border-radius: 30px;
+    width: 125px;
+    height: 125px;
+    left: 551px;
+    top: 954px;
+    border-radius: 10px;
     transform: rotate(7.06deg);
 }
 
 .cant_andrey {
     box-sizing: border-box;
     position: absolute;
-    width: 368px;
-    height: 368px;
-    left: 1658px;
-    top: 1540px;
-    border: 2px solid #FBD748;
-    border-radius: 30px;
+    width: 125px;
+    height: 125px;
+    left: 551px;
+    top: 954px;
+    border: 1px solid #FBD748;
+    border-radius: 10px;
     transform: rotate(3.23deg);
 }
 
 .andrey {
     position: absolute;
-    width: 314px;
-    height: 24px;
-    left: 1663px;
-    top: 1919px;
+    width: 120px;
+    height: 36px;
+    left: 545px;
+    top: 1081px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 900;
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     text-align: center;
     color: #000000;
 }
 
 .text_andrey {
     position: absolute;
-    width: 314px;
-    height: 18px;
-    left: 1663px;
-    top: 1967px;
+    width: 107px;
+    height: 28px;
+    left: 550px;
+    top: 1128px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 12px;
+    line-height: 14px;
     text-align: center;
     color: #000000;
 }
@@ -366,6 +367,7 @@ h2 {
     }
 
     .photo2 {
+        position: absolute;
         width: 359px;
         height: 359px;
         left: 295px;
