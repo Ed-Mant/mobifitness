@@ -69,11 +69,10 @@ h1 {
 @media only screen and (min-width: 480px){
 
     h1 {
-        position: absolute;
-        width: 1100px;
+        width: 1000px;
         height: 400px;
-        left: 490px;
-        top: 230px;
+        left: 450px;
+        top: 220px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -89,30 +88,33 @@ h1 {
         outline-color: #93E736;
         outline-offset: 44px;
     
-        position: absolute;
         box-sizing: border-box;
         width: 670px;
         height: 670px;
-        left: 1600px;
-        top: 385px;
+        left: 1504px;
+        top: 375px;
         border-radius: 500px;
         background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
         transform: rotate(37deg);
     }
 
     .yellow_box {
-        position: absolute;
-        width: 2585px;
+        width: 1935px;
         height: 97px;
-        left: -461.05px;
-        top: 723px;
+        left: -10px;
+        top: 700px;
         background: #FBD748;
         box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
         transform: rotate(-5deg);
     }
 
+    .yellow_gran {
+        width: 1935px;
+        height: 97px;
+        overflow: hidden;
+    }
+
     .yellow_text {
-        position: absolute;
         width: 600px;
         height: 40px;
         font-family: 'Open Sans';
@@ -121,24 +123,29 @@ h1 {
         line-height: 16px;
         font-weight: 900;
         color: #000000;
+        animation: yellow_text 10s linear infinite;
     }
+    
+        @keyframes yellow_text {
+            0% {
+                transform: translateX(1200px);
+            }
+            100% {
+                transform: translateX(-1920px);
+            }
+            
+        }
 
     .blue {
-        position: absolute;
-        width: 205px;
-        height: 152px;
-        left: 1600px;
-        top: 460px;
+        left: 1520px;
+        top: 420px;
         transform: rotate(25deg);
     }
 
     .red {
-        position: absolute;
-        width: 87px;
-        height: 70px;
-        left: 1170px;
-        top: 490px;
-        transform: rotate(-35deg);
+        left: 300px;
+        top: 675px;
+        transform: rotate(-5deg);
     }
 
 }

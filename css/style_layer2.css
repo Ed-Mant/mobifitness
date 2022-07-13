@@ -289,47 +289,64 @@ h2 {
         position: absolute;
         width: 1005px;
         height: 172px;
-        left: 427px;
-        top: 1010px;
+        left: 328px;
+        top: 1004px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
         font-size: 72px;
-        line-height: 96px;
+        line-height: 88px;
         color: #000000;
     }
 
     .text1 {
-        position: absolute;
+        position: relative;
         width: 729px;
         height: 200px;
-        left: 427px;
-        top: 1256px;
+        left: 320px;
+        top: 1245px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 500;
-        font-size: 24px;
+        font-size: 26px;
         line-height: 30px;
         color: #000000;
     }
 
+    .poz_feet {
+        height: 520px;
+        width: 1920px;
+    }
+
     .photo1 {
-        position: absolute;
+        position: relative;
         border: 0px;
         border-radius: 30px;
         width: 359px;
         height: 359px;
-        left: -132px;
-        top: 1550px;
+        left: -238px;
+        top: 1288px;
         transform: rotate(3.63deg);
     }
 
+    .cant_aida {
+        box-sizing: border-box;
+        position: relative;
+        width: 368px;
+        height: 368px;
+        left: -240px;
+        top: 920px;
+        border: 2px solid #15B68E;
+        border-radius: 30px;
+        transform: rotate(-2deg);
+    }
+
     .aida {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 24px;
-        left: -132px;
-        top: 1922px;
+        left: -202px;
+        top: 928px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -340,11 +357,11 @@ h2 {
     }
 
     .aida_text {
-        position: absolute;
+        position: relative;
         width: 234px;
         height: 36px;
-        left: -132px;
-        top: 1972px;
+        left: -206px;
+        top: 922px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;
@@ -354,45 +371,30 @@ h2 {
         color: #000000;
     }
 
-    .cant_aida {
-        box-sizing: border-box;
-        position: absolute;
-        width: 368px;
-        height: 368px;
-        left: -132px;
-        top: 1550px;
-        border: 2px solid #15B68E;
-        border-radius: 30px;
-        transform: rotate(-2deg);
-    }
-
     .photo2 {
-        position: absolute;
-        width: 359px;
-        height: 359px;
-        left: 295px;
-        top: 1550px;
-
+        position: relative;
+        left: 192px;
+        top: 434px;
     }
     
     .cant_kirill {
         box-sizing: border-box;
-        position: absolute;
+        position: relative;
         width: 368px;
         height: 368px;
-        left: 295px;
-        top: 1550px;
+        left: 187px;
+        top: 64px;
         border: 2px solid #15B68E;
         border-radius: 30px;
         transform: rotate(5deg);
     }
 
     .kirill {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 24px;
-        left: 320px;
-        top: 1922px;
+        left: 214px;
+        top: 72px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -403,11 +405,11 @@ h2 {
     }
 
     .kirill_text {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 18px;
-        left: 320px;
-        top: 1972px;
+        left: 214px;
+        top: 64px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;
@@ -418,31 +420,29 @@ h2 {
     }
 
     .photo3 {
-        position: absolute;
-        width: 359px;
-        height: 359px;
-        left: 740px;
-        top: 1538px;
+        position: relative;
+        left: 634px;
+        top: -415px;
     }
 
     .cant_sofia {
         box-sizing: border-box;
-        position: absolute;
+        position: relative;
         width: 368px;
         height: 368px;
-        left: 742px;
-        top: 1545px;
+        left: 638px;
+        top: -795px;
         border: 2px solid #FBD748;
         border-radius: 30px;
         transform: rotate(1deg);
     }
 
     .sofia {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 24px;
-        left: 760px;
-        top: 1925px;
+        left: 660px;
+        top: -782px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -453,11 +453,11 @@ h2 {
     }
     
     .sofia_text {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 18px;
-        left: 770px;
-        top: 1973px;
+        left: 666px;
+        top: -794px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;
@@ -468,31 +468,29 @@ h2 {
     }
 
     .photo4 {
-        position: absolute;
-        width: 360px;
-        height: 360px;
-        left: 1200px;
-        top: 1544px;
+        position: relative;
+        left: 1092px;
+        top: -1270px;
     }
 
     .cant_anast {
         box-sizing: border-box;
-        position: absolute;
+        position: relative;
         width: 368px;
         height: 368px;
-        left: 1198px;
-        top: 1540px;
+        left: 1092px;
+        top: -1640px;
         border: 2px solid #15B68E;
         border-radius: 30px;
         transform: rotate(-4.42deg);
     }
 
     .anast {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 24px;
-        left: 1220px;
-        top: 1920px;
+        left: 1120px;
+        top: -1626px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -503,11 +501,11 @@ h2 {
     }
 
     .anast_text {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 18px;
-        left: 1221px;
-        top: 1966px;
+        left: 1118px;
+        top: -1637px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;
@@ -518,33 +516,31 @@ h2 {
     }
 
     .photo5 {
-        position: absolute;
-        width: 359px;
-        height: 359px;
-        left: 1660px;
-        top: 1544px;
+        position: relative;
+        left: 1555px;
+        top: -2106px;
         border-radius: 30px;
         transform: rotate(7.06deg);
     }
 
     .cant_andrey {
         box-sizing: border-box;
-        position: absolute;
+        position: relative;
         width: 368px;
         height: 368px;
-        left: 1658px;
-        top: 1540px;
+        left: 1550px;
+        top: -2476px;
         border: 2px solid #FBD748;
         border-radius: 30px;
         transform: rotate(3.23deg);
     }
 
     .andrey {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 24px;
-        left: 1663px;
-        top: 1919px;
+        left: 1560px;
+        top: -2462px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -555,11 +551,11 @@ h2 {
     }
 
     .text_andrey {
-        position: absolute;
+        position: relative;
         width: 314px;
         height: 18px;
-        left: 1663px;
-        top: 1967px;
+        left: 1560px;
+        top: -2473px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;

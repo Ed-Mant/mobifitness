@@ -206,22 +206,22 @@
 @media only screen and (min-width: 480px){
 
     .dark_box {
-        position: absolute;
+        position: relative;
         width: 1463px;
         height: 900px;
-        left: 325px;
-        top: 3775px;
+        left: 220px;
+        top: -2008px;
         background: #2E353D;
         border-radius: 45px;
-        clip-path: polygon(0 0, 100% 1%, 94% 94%, 4% 100%);
+        clip-path: polygon(4% 100%, 95% 94%, 99% 1%, 0 0);
     }
     
     .p_start {
-        position: absolute;
-        width: 1006px;
+        position: relative;
+        width: 660px;
         height: 172px;
-        left: 520px;
-        top: 3852px;
+        left: 610px;
+        top: -2832px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -232,9 +232,9 @@
     }
     
     .yellow_text1 {
-        position: absolute;
-        left: 565px;
-        top: 4055px;
+        position: relative;
+        left: 460px;
+        top: -2800px;
         text-align: center;
         width: 221px;
         height: 44px;
@@ -247,9 +247,9 @@
     }
     
     .dark_text1 {
-        position: absolute;
-        left: 544px;
-        top: 4135px;
+        position: relative;
+        left: 436px;
+        top: -2824px;
         text-align: center;
         width: 267px;
         height: 78px;
@@ -263,9 +263,9 @@
     }
     
     .yellow_text2 {
-        position: absolute;
-        left: 998px;
-        top: 4055px;
+        position: relative;
+        left: 890px;
+        top: -3002px;
         text-align: center;
         width: 131px;
         height: 44px;
@@ -278,9 +278,9 @@
     }
     
     .dark_text2 {
-        position: absolute;
-        left: 935px;
-        top: 4135px;
+        position: relative;
+        left: 826px;
+        top: -3026px;
         width: 262px;
         height: 78px;
         font-family: 'Open Sans';
@@ -293,9 +293,9 @@
     }
     
     .yellow_text3 {
-        position: absolute;
-        left: 1340px;
-        top: 4055px;
+        position: relative;
+        left: 1230px;
+        top: -3204px;
         text-align: center;
         width: 215px;
         height: 44px;
@@ -308,9 +308,9 @@
     }
     
     .dark_text3 {
-        position: absolute;
-        left: 1340px;
-        top: 4135px;
+        position: relative;
+        left: 1230px;
+        top: -3228px;
         width: 220px;
         height: 78px;
         font-family: 'Open Sans';
@@ -323,9 +323,9 @@
     }
     
     .yellow_text4 {
-        position: absolute;
-        left: 760px;
-        top: 4252px;
+        position: relative;
+        left: 654px;
+        top: -3208px;
         width: 91px;
         height: 44px;
         font-family: 'Open Sans';
@@ -337,9 +337,9 @@
     }
     
     .dark_text4 {
-        position: absolute;
-        left: 675px;
-        top: 4334px;
+        position: relative;
+        left: 654px;
+        top: -3208px;
         width: 245px;
         height: 52px;
         font-family: 'Open Sans';

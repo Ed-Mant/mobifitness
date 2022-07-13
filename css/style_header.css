@@ -45,30 +45,24 @@
 @media only screen and (min-width: 480px){
     
     .circle {
-        position: absolute;
         width: 362px;
         height: 362px;
-        left: -60px;
-        top: 160px;
+        left: -160px;
+        top: 150px;
         border-radius: 200px;
-        background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
-        transform: rotate(37.41deg);
+        background: linear-gradient(168.3deg, #15B68E 8.56%, #93E736 87.99%);
     }
 
     .logo {
-        position: absolute;
-        width: 179px;
-        height: 60px;
-        left: 310px;
-        top: 60px;
+        left: 202px;
+        top: 40px;
     }
 
     .green_button {
-        position: absolute;
         width: 305px;
         height: 52px;
-        left: 1512px;
-        top: 52px;
+        left: 1415px;
+        top: 42px;
         border: 0;
         background: linear-gradient(91.65deg, #93E736 -28.46%, #13A16C 105.66%);
         border-radius: 50px;
@@ -85,11 +79,8 @@
     }
 
     .letter {
-        position: absolute;
-        width: 209px;
-        height: 168px;
-        left: 200px;
-        top: 253px;
+        left: 140px;
+        top: 230px;
 
         transform: rotate(20deg);
     }

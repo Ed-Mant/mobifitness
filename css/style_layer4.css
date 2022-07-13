@@ -190,11 +190,11 @@
 @media only screen and (min-width: 480px){
 
     .what {
-        position: absolute;
+        position: relative;
         width: 509px;
         height: 86px;
-        top: 2951px;
-        left: 432px;
+        top: 776px;
+        left: 324px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 900;
@@ -204,11 +204,11 @@
     }
     
     .answer {
-        position: absolute;
+        position: relative;
         width: 729px;
         height: 450px;
-        top: 3110px;
-        left: 428px;
+        top: 745px;
+        left: 324px;
         font-family: 'Open Sans';
         font-style: normal;
         font-weight: 400;
@@ -218,11 +218,11 @@
     }
     
     .circle3 {
-        position: absolute;
+        position: relative;
         width: 415px;
         height: 415px;
-        left: 1355px;
-        top: 3100px;
+        left: 1250px;
+        top: 236px;
         border-radius: 200%;
         background: linear-gradient(131.3deg, #15B68E 8.56%, #93E736 87.99%);
         box-shadow: -2px 2px 60px #1DC299;
@@ -234,11 +234,11 @@
         outline-color: #15B68E;
         outline-offset: -2px;
     
-        position: absolute;
+        position: relative;
         width: 511px;
         height: 511px;
-        left: 1308px;
-        top: 3050px;
+        left: 1200px;
+        top: -224px;
         border-radius: 200%;
         opacity: 0.5;
     }
@@ -249,11 +249,11 @@
         outline-color: #15B68E;
         outline-offset: -4px;
     
-        position: absolute;
+        position: relative;
         width: 709px;
         height: 709px;
-        left: 1205px;
-        top: 2950px;
+        left: 1100px;
+        top: -836px;
         border-radius: 200%;
         opacity: 0.2;
     }
@@ -264,21 +264,21 @@
         outline-color: #15B68E;
         outline-offset: -6px;
     
-        position: absolute;
+        position: relative;
         width: 933px;
         height: 933px;
-        left: 1090px;
-        top: 2840px;
+        left: 1000px;
+        top: -1660px;
         border-radius: 200%;
         opacity: 0.1;
     }
     
     .white_box1 {
-        position: absolute;
+        position: relative;
         width: 213px;
         height: 112px;
-        left: 1326px;
-        top: 3135px;
+        left: 1220px;
+        top: -2295px;
         background: #FFFFFF;
         box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
         border-radius: 10px;
@@ -298,11 +298,11 @@
     }
     
     .white_box2 {
-        position: absolute;
+        position: relative;
         width: 278px;
         height: 136px;
-        left: 1585px;
-        top: 3172px;
+        left: 1480px;
+        top: -2370px;
         background: #FFFFFF;
         box-shadow: 0px 0px 1px rgba(0, 20, 51, 0.3), 0px 6px 16px rgba(0, 20, 51, 0.15);
         border-radius: 10px;

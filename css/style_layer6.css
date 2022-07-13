@@ -169,6 +169,7 @@
         top: 5140px;
         background: #15B68E;
         border-radius: 45px;
+        clip-path: polygon(4% 100%, 96% 99%, 100% 0, 1% 5%);
     }
     
     .cant_grin_box {
